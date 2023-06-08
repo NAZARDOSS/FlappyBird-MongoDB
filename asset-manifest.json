@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6b5d8236.css",
+    "main.js": "/react-gh-pages/static/js/main.22d5dbbe.js",
+    "static/media/flappy_bird_bg.jpg": "/react-gh-pages/static/media/flappy_bird_bg.02588dd4d2d59848770e.jpg",
+    "static/media/flappy_bird_pipeBottom.png": "/react-gh-pages/static/media/flappy_bird_pipeBottom.d354aa8707984cd12865.png",
+    "static/media/flappy_bird_pipeUp.png": "/react-gh-pages/static/media/flappy_bird_pipeUp.3e4cf42d22cd53ad5b3d.png",
+    "static/media/flappy_bird_fg.png": "/react-gh-pages/static/media/flappy_bird_fg.1aff9f5e110b575afb5a.png",
+    "static/media/flappy_bird_bird.png": "/react-gh-pages/static/media/flappy_bird_bird.71e31e9e1627409c2340.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.6b5d8236.css.map": "/react-gh-pages/static/css/main.6b5d8236.css.map",
+    "main.22d5dbbe.js.map": "/react-gh-pages/static/js/main.22d5dbbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5d8236.css",
+    "static/js/main.22d5dbbe.js"
+  ]
+}
